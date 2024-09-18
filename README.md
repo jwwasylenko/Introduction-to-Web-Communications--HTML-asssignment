@@ -1,5 +1,6 @@
 # Introduction-to-Web-Communications--HTML-asssignment
 HTML assignment
+<link rel="stylesheet" href="style.css" />
 <!DOCTYPE html>
 <head>
 <title> Wandering Wasy</title>
